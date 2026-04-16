@@ -1,0 +1,4 @@
+interface:
+  display_name: "SEO Pro Skill"
+  short_description: "Automatic SEO content pipeline for products"
+  default_prompt: "Use $seopro-skill to turn my product info into a publish-ready SEO article."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "GEO Pro Skill"
+  short_description: "Answer-first GEO asset builder for AI search"
+  default_prompt: "Use $geopro-skill to turn my product and topic into a GEO answer asset."
