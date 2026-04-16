@@ -169,6 +169,20 @@ Each skill can create a local `memory.md` after successful runs. Memory is inten
 - They do not guarantee search rankings, AI citations, or AI-search visibility.
 - They are designed to make content more structured, useful, honest, and machine-readable.
 
+## Tips
+
+- Stronger models usually produce better articles and answer assets.
+- Better models tend to perform better on structure, judgment, anti-hallucination behavior, nuance, and final writing quality.
+- If you want the highest-quality output, use the strongest model available in your environment.
+
+## Disclaimer
+
+These skills are provided as-is, without any guarantee of rankings, AI citations, traffic growth, or business outcomes.
+
+They are structured content-engineering workflows, not legal advice, platform policy advice, or guaranteed growth systems.
+
+You are responsible for reviewing all generated content, claims, links, citations, and product positioning before publishing or using the output in production.
+
 ## Repository Structure
 
 ```text
